@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559065995387",
+    "firebase_url": "https://moifoods-d1338.firebaseio.com",
+    "project_id": "moifoods-d1338",
+    "storage_bucket": "moifoods-d1338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559065995387:android:4de3314f52ff5ed96c2ade",
+        "android_client_info": {
+          "package_name": "com.example.moifoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559065995387-1kpadcpfjq33phnk3gpfulobgjkrvslr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moifoods",
+            "certificate_hash": "692095967979eb27f1b404c4e699d24ff1703ae1"
+          }
+        },
+        {
+          "client_id": "559065995387-ftjj9aue2et099t3skbmdq0n8vbmth80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv551oYJJy3qJ9FxU5EjJkqoOdfA6LIMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559065995387-ftjj9aue2et099t3skbmdq0n8vbmth80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
